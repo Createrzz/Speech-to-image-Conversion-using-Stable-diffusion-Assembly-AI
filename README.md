@@ -1,4 +1,4 @@
-Voice-Stable-Diffusion
+# Voice-Stable-Diffusion
 
 This repository contains the implementation of a Voice-assited Streamlit application to generate Images With Stable Diffusion. 
 
@@ -16,6 +16,7 @@ To run the application, run the following command in terminal:
 streamlit run app.py
 
 The above command should open a browser where you can use the application.
+![197845024-07a2c393-be50-436e-a36e-acc1e36653f2](https://github.com/Createrzz/Speech-to-image-Conversion-using-Stable-diffusion-Assembly-AI/assets/142434708/259aecd2-c9f2-49e6-b7ad-91c730fa6384)
 
 
 The output of the file 
