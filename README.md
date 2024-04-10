@@ -20,5 +20,9 @@ The above command should open a browser where you can use the application.
 
 
 The output of the file 
-https://github.com/Createrzz/Speech-to-image-Conversion-using-Stable-diffusion-Assembly-AI/assets/142434708/502cba42-bc9a-4230-8dc7-096a60e0a6b8
+
+
+
+https://github.com/Createrzz/Speech-to-image-Conversion-using-Stable-diffusion-Assembly-AI/assets/142434708/cc2d9d5d-3f02-4b1a-b504-68d1eec28010
+
 
