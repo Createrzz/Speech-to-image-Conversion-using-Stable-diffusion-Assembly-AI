@@ -17,5 +17,7 @@ streamlit run app.py
 
 The above command should open a browser where you can use the application.
 
+
+The output of the file 
 https://github.com/Createrzz/Speech-to-image-Conversion-using-Stable-diffusion-Assembly-AI/assets/142434708/502cba42-bc9a-4230-8dc7-096a60e0a6b8
 
